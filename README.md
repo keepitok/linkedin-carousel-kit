@@ -12,4 +12,4 @@ Ask your AI agent:
 
 Ask your AI agent:
 
-> Create a LinkedIn carousel about <description of the carousel>.
+> Create a LinkedIn carousel about `<description of the carousel>`.
