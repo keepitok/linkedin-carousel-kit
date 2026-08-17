@@ -1,0 +1,12 @@
+{
+  "name": "linkedin-carousel-kit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs",
+    "pdf": "node pdf.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}
